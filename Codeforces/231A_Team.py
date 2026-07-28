@@ -1,4 +1,4 @@
-n=int(input()) #asks for number of problems
+n=int(input()) #asks for the number of problems
 count=0
 for i in range(n): #n lines
     a,b,c=map(int,input().split()) #if Petya, Vasya, Tonya are sure or unsure
